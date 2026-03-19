@@ -19,8 +19,8 @@
 
 ## Program
 ```
-Developed by:MOHANRAJ R
-Reg No: 212224230169
+Developed by:HARIRAM R
+Reg No: 212224240050
 
 ```
 ```
@@ -88,7 +88,9 @@ else:
 ## Output
 
 
-![alt text](<Screenshot 2026-02-20 093214.png>)
+<img width="875" height="765" alt="image" src="https://github.com/user-attachments/assets/d2cc962f-a71b-4eff-a634-02b3de176e1f" />
+
+
 
 
 
